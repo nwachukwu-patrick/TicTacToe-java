@@ -1,2 +1,2 @@
 # TicTacToe-java
-this is a tictacroe game design with java only
+this is a tictactoe game design with java only
